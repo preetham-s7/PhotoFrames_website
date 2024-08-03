@@ -1,0 +1,14 @@
+.carousel-item img{
+    width: 100%;
+    height: 97vh;
+}
+.services{
+    background-color: rgb(187, 246, 224);
+}
+.card-body img{
+    height: 200px;
+}
+#leftphoto{
+    height: 450px;
+    width: 450px;
+}
